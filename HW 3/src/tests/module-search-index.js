@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"CSE360TeamProject"}];updateSearchResults();
