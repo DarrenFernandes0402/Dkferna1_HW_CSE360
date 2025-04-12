@@ -6,14 +6,15 @@
 
 ### Contents
 
-1. ScreencastFile1 - file containing Screencast for Homework 3
-2. ScreencastFile2 - file containing Screencast for Homework 4
+1. HW3Screencast - file containing Screencast for Homework 3
+2. HW4Screencast - file containing Screencast for Homework 4
 3. dkferna1_Assignment_12.pdf - file containing my submission to canvas   
 4. HW3 - file containing my code for HW3
 5. HW4 - file containing my code for HW4
 6. dkferna1_Assignment_17.pdf - file containing my submission to canvas
+7. Readme
 
-This is a junit test code along wiht a necessary javdoc comments and file related to the tests explaining what they do.   
+Making the staff epic, as well as all the realted tests and documentations
 
 ### Installation : (Using Eclipse IDE for Windows)
 #### Libraries Required For Installation(Provided in-class)
@@ -41,3 +42,4 @@ Darren Fernandes - dkferna1@asu.edu
 
 
 ###### **Special thanks to Dr. Lynn Robert Carter for the use of his UserNameRecognizer, PasswordEvaluator, test-beds, and other associated applications used in this project!
+###### **Special thanks to Online Team 8 for their base code that helped with writing this homework
