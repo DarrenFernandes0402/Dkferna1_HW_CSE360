@@ -6,9 +6,12 @@
 
 ### Contents
 
-1. ScreencastFile - file containing Screencast
-2. dkferna1_Assignment_12.pdf - file containing my submission to canvas   
-3. HW3 - file containing my code
+1. ScreencastFile1 - file containing Screencast for Homework 3
+2. ScreencastFile2 - file containing Screencast for Homework 4
+3. dkferna1_Assignment_12.pdf - file containing my submission to canvas   
+4. HW3 - file containing my code for HW3
+5. HW4 - file containing my code for HW4
+6. dkferna1_Assignment_17.pdf - file containing my submission to canvas
 
 This is a junit test code along wiht a necessary javdoc comments and file related to the tests explaining what they do.   
 
